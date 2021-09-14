@@ -26,7 +26,7 @@ class UI {
             <td>${book.title}</td>
             <td>${book.author}</td>
             <td>${book.isbn}</td>
-            <td><a href-# class="btn btn-danger btn-sm delete"></a>X</td>
+            <td><a href-# class="btn btn-danger btn-sm delete">X</a></td>
         `;
 
         // append the row to the list
