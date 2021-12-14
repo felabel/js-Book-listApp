@@ -2,7 +2,8 @@
     "name": "BookList - Keeping cpunt of my reads",
     "short-name": "BookList",
     "start-url": "index.html",
-    "scope": [
+    "scope": "./",
+    "icons": [
         {
             "src": "profile-pic.png",
             "sizes": "192*192",
