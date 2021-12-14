@@ -7,3 +7,6 @@ it is a javascript application that improves your skills of
 -- javascript classbased functions and 
 -- storing data in the local storage
 --If you are looking to improve your javascript skills, this is for you
+
+# yarn add --global sw-precache
+# sw-precache

@@ -1,0 +1,21 @@
+{
+    "name": "BookList - Keeping cpunt of my reads",
+    "short-name": "BookList",
+    "start-url": "index.html",
+    "scope": [
+        {
+            "src": "profile-pic.png",
+            "sizes": "192*192",
+            "type": "image/png"
+        },
+        {
+            "src": "profile-pic.png",
+            "sizes": "192*192",
+            "type": "image/png"
+        }
+    ],
+    "theme-color": "#fff",
+    "background-colour": "#fff",
+    "display": "standalone"
+
+}

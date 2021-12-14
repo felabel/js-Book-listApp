@@ -159,3 +159,8 @@ document.querySelector('#book-list').addEventListener('click', (e)=>{
     UI.showAlert('book removed', 'info')
 
 })
+
+if ("serviceWorker" in navigator){
+    // register service worker
+    navigator.serviceWorker.register("service-worker.js")
+}
